@@ -30,12 +30,15 @@ Laravelful is perfect for developers looking to build:
 
 We welcome contributions of all forms. Whether you're fixing bugs, improving documentation, proposing new features, or sharing your feedback, your input is invaluable. See our [CONTRIBUTING.md](link-to-contributing-file) for guidelines on how to contribute.
 
+<!--
 ## Getting Started
 
 Dive into Laravelful with our detailed documentation. Whether you're new to these technologies or an experienced developer, our guide will help you make the most out of this starter template.
 
 [Quickstart Guide](link-to-quickstart-guide)
 
+-->
+
 ## License
 
-Laravelful is open-sourced software licensed under the [MIT license](link-to-license).
+Laravelful is open-sourced software licensed under the [MIT license](https://github.com/one-shot-digital/Laravelful/blob/main/LICENSE).
